@@ -38,7 +38,7 @@
   "app.dashboard.empty.title": "Empty Library",
   "app.dashboard.empty.message": "Add payloads from the Cloud Hub to get started.",
   "app.dashboard.empty.button": "Open Repository",
-  "app.loading.title": "Engaging Core",
+  "app.loading.title": "Launching...",
   "app.loading.subtitle": "LAUNCHING PAYLOAD...",
   "app.logs.title": "Logs",
   "active_processes.cannot_kill": "Cannot kill {{name}}",
