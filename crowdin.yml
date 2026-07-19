@@ -6,6 +6,7 @@
 "files": [
   {
     "source": "/en-US.json",
-    "translation": "/%locale%.json"
+    "translation": "/%locale%.json",
+    "type": "i18next_json"
   }
 ]
