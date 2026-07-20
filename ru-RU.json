@@ -150,6 +150,7 @@
   "settings.title": "Настройки",
   "settings.language_title": "Язык",
   "settings.language_desc": "Изменить язык интерфейса приложения.",
+  "settings.language_system_default": "System Default",
   "settings.language_disclaimer": "Перевод выполнен сообществом и может содержать неточности.",
   "settings.auto_open_title": "Автоматически открывать браузер",
   "settings.auto_open_desc": "Автоматически запускать браузер при выполнении полезной нагрузки в Менеджере полезных нагрузок.",

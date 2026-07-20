@@ -150,6 +150,7 @@
   "settings.title": "Impostazioni",
   "settings.language_title": "Lingua",
   "settings.language_desc": "Modifica la lingua dell'applicazione.",
+  "settings.language_system_default": "System Default",
   "settings.language_disclaimer": "Le traduzioni sono frutto del lavoro della comunità e potrebbero contenere errori.",
   "settings.auto_open_title": "Apertura Browser automatico",
   "settings.auto_open_desc": "Avvia automaticamente il browser quando viene eseguito il payload di Payload Manager.",

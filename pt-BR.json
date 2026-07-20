@@ -150,6 +150,7 @@
   "settings.title": "Configurações",
   "settings.language_title": "Idioma",
   "settings.language_desc": "Mudar o Idioma do aplicativo.",
+  "settings.language_system_default": "System Default",
   "settings.language_disclaimer": "Traduções são feitas em conjunto pela comunidade e podem conter erros.",
   "settings.auto_open_title": "Abrir automaticamente",
   "settings.auto_open_desc": "Abre automaticamente a tela do Gerenciador apos o carregamento automático.",
