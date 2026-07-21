@@ -44,6 +44,7 @@
   "app.loading.title": "Avvio...",
   "app.loading.subtitle": "AVVIO PAYLOAD...",
   "app.logs.title": "Log",
+  "app.dashboard.launched_tooltip": "Launched recently",
   "active_processes.cannot_kill": "Impossibile disattivare {{name}}",
   "active_processes.kill_modal_title": "Processi disattivati",
   "active_processes.kill_modal_message": "Sei sicuro di voler disabilitare {{name}} (PID: {{pid}})?",

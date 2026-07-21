@@ -44,6 +44,7 @@
   "app.loading.title": "正在启动……",
   "app.loading.subtitle": "正在启动 PAYLOAD ……",
   "app.logs.title": "日志",
+  "app.dashboard.launched_tooltip": "Launched recently",
   "active_processes.cannot_kill": "无法终止 {{name}}",
   "active_processes.kill_modal_title": "终止进程",
   "active_processes.kill_modal_message": "确定要终止 {{name}}（PID：{{pid}}）吗？",

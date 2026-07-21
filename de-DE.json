@@ -44,6 +44,7 @@
   "app.loading.title": "Wird gestartet …",
   "app.loading.subtitle": "PAYLOAD WIRD GESTARTET …",
   "app.logs.title": "Protokoll",
+  "app.dashboard.launched_tooltip": "Launched recently",
   "active_processes.cannot_kill": "{{name}} kann nicht beendet werden",
   "active_processes.kill_modal_title": "Prozess beenden",
   "active_processes.kill_modal_message": "{{name}} (PID: {{pid}}) wirklich beenden?",

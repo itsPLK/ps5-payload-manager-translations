@@ -44,6 +44,7 @@
   "app.loading.title": "در حال راه‌اندازی...",
   "app.loading.subtitle": "در حال اجرای پیلود...",
   "app.logs.title": "گزارش‌ها",
+  "app.dashboard.launched_tooltip": "Launched recently",
   "active_processes.cannot_kill": "نمیتوان {{name}} را متوقف کرد",
   "active_processes.kill_modal_title": "متوقف کردن فرآیند",
   "active_processes.kill_modal_message": "آیا از متوقف کردن {{name}} مطمئن هستید؟ (PID: {{pid}})؟",
