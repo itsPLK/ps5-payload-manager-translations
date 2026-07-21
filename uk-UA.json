@@ -150,7 +150,7 @@
   "settings.title": "Налаштування",
   "settings.language_title": "Мова",
   "settings.language_desc": "Змінити мову інтерфейсу додатка.",
-  "settings.language_system_default": "System Default",
+  "settings.language_system_default": "Системна",
   "settings.language_disclaimer": "Переклади створюються спільнотою й можуть містити помилки.",
   "settings.auto_open_title": "Автоматично відкривати браузер",
   "settings.auto_open_desc": "Автоматично запускати браузер при виконанні навантаження Менеджера.",

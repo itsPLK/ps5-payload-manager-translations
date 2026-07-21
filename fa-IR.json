@@ -150,7 +150,7 @@
   "settings.title": "تنظمات",
   "settings.language_title": "زبان ها",
   "settings.language_desc": "تغییر زبان نمایش برنامه",
-  "settings.language_system_default": "System Default",
+  "settings.language_system_default": "زبان پیش فرض سیستم",
   "settings.language_disclaimer": "ترجمه ها مبتنی بر جامعه هستند و ممکن است دارای خطا باشند.",
   "settings.auto_open_title": "باز کردن خودکار پنجره مرورگر",
   "settings.auto_open_desc": "هنگامی که پیلود منیجر اجرا شد، مرورگر را به طور خودکار راه‌اندازی کن.",

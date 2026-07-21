@@ -44,7 +44,7 @@
   "active_processes.cannot_kill": "Impossible de tuer {{name}}",
   "active_processes.kill_modal_title": "Tuer le processus",
   "active_processes.kill_modal_message": "Êtes-vous sûr de vouloir tuer {{name}} (PID : {{pid}}) ?",
-  "active_processes.kill_success": "{{name}} a été tué avec succès",
+  "active_processes.kill_success": "{{name}} a été interrompu avec succès",
   "active_processes.kill_failed": "Échec de l'arrêt de {{name}}",
   "active_processes.kill_error": "Erreur lors de l'arrêt de {{name}}",
   "active_processes.title_active": "Actifs",

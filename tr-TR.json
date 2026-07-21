@@ -150,7 +150,7 @@
   "settings.title": "Ayarlar",
   "settings.language_title": "Dil",
   "settings.language_desc": "Uygulamanın görüntüleme dilini değiştirin.",
-  "settings.language_system_default": "System Default",
+  "settings.language_system_default": "Sistem Varsayılanı",
   "settings.language_disclaimer": "Çeviriler topluluk tarafından yapılmaktadır ve hatalar içerebilir.",
   "settings.auto_open_title": "Tarayıcıyı otomatik aç",
   "settings.auto_open_desc": "Payload Manager yürütüldüğünde tarayıcıyı otomatik olarak başlatın.",
