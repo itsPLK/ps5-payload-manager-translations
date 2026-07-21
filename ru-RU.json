@@ -67,7 +67,7 @@
   "autoload_overlay.done_title_1": "Автозагрузка",
   "autoload_overlay.done_title_2": "Готово",
   "autoload_overlay.all_loaded": "Все полезные нагрузки загружены",
-  "autoload_overlay.return_btn": "Вернуться на панель управления",
+  "autoload_overlay.return_btn": "Вернуться в панель управления",
   "autoload_overlay.abort_btn": "Прервать автозагрузку",
   "autoload_overlay.payload_list": "Список полезных нагрузок",
   "autoload_overlay.success": "Успешно",
