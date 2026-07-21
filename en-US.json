@@ -44,6 +44,7 @@
   "app.loading.title": "Launching...",
   "app.loading.subtitle": "LAUNCHING PAYLOAD...",
   "app.logs.title": "Logs",
+  "app.dashboard.launched_tooltip": "Launched recently",
   "active_processes.cannot_kill": "Cannot kill {{name}}",
   "active_processes.kill_modal_title": "Kill Process",
   "active_processes.kill_modal_message": "Are you sure you want to kill {{name}} (PID: {{pid}})?",
