@@ -45,7 +45,7 @@
   "app.loading.subtitle": "กำลังเปิดใช้งาน PAYLOAD...",
   "app.logs.title": "บันทึก",
   "app.dashboard.launched_tooltip": "เพิ่งเปิดใช้งาน",
-  "autoload.delay_item": "Delay ({{seconds}}s)",
+  "autoload.delay_item": "หน่วงเวลา ({{seconds}} วินาที)",
   "active_processes.cannot_kill": "ไม่สามารถหยุด {{name}} ได้",
   "active_processes.kill_modal_title": "หยุดโปรเซส",
   "active_processes.kill_modal_message": "คุณแน่ใจหรือไม่ว่าต้องการหยุด {{name}} (PID: {{pid}})?",
