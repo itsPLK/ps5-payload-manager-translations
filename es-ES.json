@@ -45,6 +45,7 @@
   "app.loading.subtitle": "INICIANDO PAYLOAD...",
   "app.logs.title": "Registros",
   "app.dashboard.launched_tooltip": "Launched recently",
+  "autoload.delay_item": "Delay ({{seconds}}s)",
   "active_processes.cannot_kill": "No se puede finalizar {{name}}",
   "active_processes.kill_modal_title": "Finalizar Proceso",
   "active_processes.kill_modal_message": "¿Estás seguro de que deseas finalizar {{name}} (PID: {{pid}})?",

@@ -45,6 +45,7 @@
   "app.loading.subtitle": "LANCEMENT DU PAYLOAD...",
   "app.logs.title": "Journaux",
   "app.dashboard.launched_tooltip": "Lancé récemment",
+  "autoload.delay_item": "Delay ({{seconds}}s)",
   "active_processes.cannot_kill": "Impossible de tuer {{name}}",
   "active_processes.kill_modal_title": "Tuer le processus",
   "active_processes.kill_modal_message": "Êtes-vous sûr de vouloir tuer {{name}} (PID : {{pid}}) ?",

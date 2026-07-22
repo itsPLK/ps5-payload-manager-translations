@@ -45,6 +45,7 @@
   "app.loading.subtitle": "페이로드 실행 중...",
   "app.logs.title": "로그",
   "app.dashboard.launched_tooltip": "Launched recently",
+  "autoload.delay_item": "Delay ({{seconds}}s)",
   "active_processes.cannot_kill": "{{name}} 종료 불가",
   "active_processes.kill_modal_title": "프로세스 강제 종료",
   "active_processes.kill_modal_message": "{{name}} (PID: {{pid}})를 강제 종료하시겠습니까?",

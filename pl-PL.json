@@ -45,6 +45,7 @@
   "app.loading.subtitle": "URUCHAMIANIE PAYLOADU...",
   "app.logs.title": "Logi",
   "app.dashboard.launched_tooltip": "Niedawno uruchomiony",
+  "autoload.delay_item": "Delay ({{seconds}}s)",
   "active_processes.cannot_kill": "Nie można zamknąć {{name}}",
   "active_processes.kill_modal_title": "Zakończ proces",
   "active_processes.kill_modal_message": "Czy na pewno chcesz zakończyć proces {{name}} (PID: {{pid}})?",

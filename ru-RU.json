@@ -45,6 +45,7 @@
   "app.loading.subtitle": "ЗАПУСК НАГРУЗКИ...",
   "app.logs.title": "Журнал",
   "app.dashboard.launched_tooltip": "Недавно запущенные",
+  "autoload.delay_item": "Delay ({{seconds}}s)",
   "active_processes.cannot_kill": "Не удалось завершить процесс {{name}}",
   "active_processes.kill_modal_title": "Завершить процесс",
   "active_processes.kill_modal_message": "Вы уверены, что хотите завершить процесс {{name}} (PID: {{pid}})?",

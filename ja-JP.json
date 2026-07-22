@@ -45,6 +45,7 @@
   "app.loading.subtitle": "ペイロードを起動中…",
   "app.logs.title": "ログ",
   "app.dashboard.launched_tooltip": "Launched recently",
+  "autoload.delay_item": "Delay ({{seconds}}s)",
   "active_processes.cannot_kill": "{{name}} を終了できません",
   "active_processes.kill_modal_title": "プロセスの強制終了",
   "active_processes.kill_modal_message": "{{name}} (PID: {{pid}}) を強制終了しますか？",
