@@ -45,7 +45,7 @@
   "app.loading.subtitle": "PAYLOAD BAŞLATILIYOR...",
   "app.logs.title": "Sistem kayıtları",
   "app.dashboard.launched_tooltip": "Yakın zamanda başlatıldı",
-  "autoload.delay_item": "Delay ({{seconds}}s)",
+  "autoload.delay_item": "Gecikme ({{seconds}}ler)",
   "active_processes.cannot_kill": "{{name}} Sonlandırılamıyor",
   "active_processes.kill_modal_title": "İşlemi Sonlandır",
   "active_processes.kill_modal_message": "{{name}} (PID: {{pid}}) Sonlandırmak istediğinizden emin misiniz?",

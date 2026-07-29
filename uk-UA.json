@@ -45,7 +45,7 @@
   "app.loading.subtitle": "ЗАПУСК НАВАНТАЖЕННЯ...",
   "app.logs.title": "Журнал",
   "app.dashboard.launched_tooltip": "Нещодавно запущено",
-  "autoload.delay_item": "Delay ({{seconds}}s)",
+  "autoload.delay_item": "Затримка ({{seconds}}s)",
   "active_processes.cannot_kill": "Не вдалося завершити процес {{name}}",
   "active_processes.kill_modal_title": "Завершити процес",
   "active_processes.kill_modal_message": "Ви впевнені, що хочете завершити процес {{name}} (PID: {{pid}})?",

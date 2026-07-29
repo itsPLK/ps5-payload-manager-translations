@@ -5,7 +5,7 @@
   "app.modals.delete_payload.title": "حذف الحمولة",
   "app.modals.delete_payload.message": "هل أنت متيقِّن من رغبتك في إزالة{{fileName}}؟",
   "app.toasts.payload_removed": "تمت إزالة {{fileName}}",
-  "app.toasts.unsupported_file": "Unsupported file type. Only .elf and .bin files are allowed.",
+  "app.toasts.unsupported_file": "نوع مِلف غير مدعوم. يُسمح فقط بملفات .ELF و.BIN.",
   "app.modals.overwrite.title": "الكتابة فوق الحمولة",
   "app.modals.overwrite.file_exists": "المِلف {{fileName}} موجود فعلًا. هل تريد استبداله؟",
   "app.modals.overwrite.folder_exists": "توجد نسخة مختلفة من هذه الحمولة في المجلد ”{{folderName}}“. هل تريد استبدالها؟",
