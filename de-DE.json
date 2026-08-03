@@ -210,7 +210,7 @@
   "storage_hub.no_usb_payloads": "Keine USB-Payloads gefunden",
   "storage_hub.usb_scan_disabled_1": "Die erweiterte USB-Suche ist derzeit deaktiviert.",
   "storage_hub.usb_scan_disabled_2": "Zum Durchsuchen angeschlossener USB-Speicher die Option <strong>„USB-Payloads durchsuchen“</strong> in den Einstellungen aktivieren.",
-  "storage_hub.move_internal_btn": "In den internen Speicher verschieben",
+  "storage_hub.move_internal_btn": "Nach Intern ...",
   "storage_hub.remote_management_title": "Remote-Verwaltung",
   "storage_hub.remote_management_desc": "Über das lokale Netzwerk von einem PC oder Smartphone auf diese Oberfläche zugreifen, um Payloads zu verwalten und hochzuladen.",
   "category.Utilities & Tools": "Dienstprogramme und Werkzeuge",
